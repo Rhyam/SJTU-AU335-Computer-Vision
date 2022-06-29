@@ -7,3 +7,8 @@
 ## Files
 - 问题包-1.pdf: 题目
 - asimplesystem-1.pdf: 阅读文章A Simple Vision System，来自MIT CSAIL
+- 正交投影.jpg, 透视投影.jpg: 问题2解答照片
+- Problem_answer.pdf: 问题3和问题4解答
+  
+  **网上能查到的问题4答案多少都有错漏，包括助教的解答也有不足，我这个答案应该是正确的。**
+- images&code: 问题5的代码
