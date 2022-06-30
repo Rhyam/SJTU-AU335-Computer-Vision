@@ -2,6 +2,8 @@
 SJTU AU335 Computer Vision Course Assignments &amp; Project: License Plate Detection and Recognition
 
 ## Copyright
+© 2022，黄榕基
+
 本项目包括了SJTU AU335计算机视觉2022年春季课程的3次作业和课程大作业的代码和报告
 
 ## Remark
