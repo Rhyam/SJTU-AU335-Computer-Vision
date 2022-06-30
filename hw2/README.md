@@ -15,4 +15,4 @@
   - *reference/Computing_rectifying_homographies_for_stereo_vision.pdf*：按照这篇做出来效果更好，但需要自己标定相机参数，不具备条件的可参考另一篇；
   - *reference/Fusiello2000_Article_ACompactAlgorithmForRectificat.pdf*：这篇是根据INRIA-Syntim数据集提供的成对照片和相机参数进行实验，Matlab代码和相机参数均在论文中给出，可轻松复现，Python代码见*rectify.py*。
 
-建议在报告中具体说明算法流程，防止不必要的扣分。
+  建议在解答中具体说明算法流程，防止不必要的扣分。
