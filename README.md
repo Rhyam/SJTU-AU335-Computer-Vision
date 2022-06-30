@@ -9,4 +9,4 @@ SJTU AU335 Computer Vision Course Assignments &amp; Project: License Plate Detec
   如对绩点有要求，就尽可能做好canvas上的讨论题目和阅读与思考的作业，防止助教找理由扣分。
   （之后的课程等第制评分可能会改为百分制评分，就不用担心这一条了）
 - 这门课的课堂ppt其实大部分都是从别的地方东拼西凑出来的，有些地方其实存在前后符号不一致的情况。
-  如果希望认真学到东西，最好在课后多阅读额外资料进行自学，也可访问MIT CSAIL的计算机视觉
+  如果希望认真学到东西，最好在课后多阅读额外的教材资料进行自学，也可访问MIT CSAIL的6.869: Advances in Computer Vision课程主页http://6.869.csail.mit.edu/fa13/进行学习。
